@@ -8,3 +8,9 @@
 .cabecalho h3{
     color: rgb(206, 206, 8);
 }
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
