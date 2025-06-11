@@ -7,6 +7,18 @@
 
 .cabecalho h3{
     color: rgb(206, 206, 8);
+
+}
+
+
+.imgcidadenergia{
+    width: 400px;
+    
+}
+
+.energia2{
+    width: 300px;
+    ruby-align: right;
 }
 .footer{
     background-color: black;

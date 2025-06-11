@@ -1,12 +1,22 @@
 .cabecalho{
     color: white;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     text-align: center;
     padding: 30px;
 }
 
 .cabecalho h3{
     color: rgb(206, 206, 8);
+}
+
+.imgcidadenergia{
+    width: 400px;
+    
+}
+
+.energia2{
+    width: 300px;
+    ruby-align: right;
 }
 .footer{
     background-color: black;
