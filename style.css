@@ -33,7 +33,12 @@ p .alinha{
 .img-slide{
     max-height: 400px;
 }
+.titulo{
+    color: green;
+}
+.resto{ color: black;
 
+}
 .footer{
     background-color: black;
     color: white;
