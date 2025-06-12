@@ -8,31 +8,3 @@
 .cabecalho h3{
     color: rgb(206, 206, 8);
 }
-.imgcidadenergia{
-    width: 400px;
-    
-}
-
-
-.energia2{
-    width: 300px;
-    ruby-align: right;
-}
-.caroseul { 
-    max-height: 400px;
-}
-    
-    
-.carousel-img {
-  width: 300px; /* ou em % */
-  height: auto; /* mantém a proporção */
-}
-
-
-
-.footer{
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 5px;
-}
