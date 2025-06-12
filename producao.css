@@ -12,18 +12,24 @@
     width: 400px;
     
 }
-.carousel-inner{
-    width: 300px;
-}
+
+
 .energia2{
     width: 300px;
     ruby-align: right;
 }
-.caroseul { width: 400px;
-    ruby-align: right;
-    
-
+.caroseul { 
+    max-height: 400px;
 }
+    
+    
+.carousel-img {
+  width: 300px; /* ou em % */
+  height: auto; /* mantém a proporção */
+}
+
+
+
 .footer{
     background-color: black;
     color: white;
